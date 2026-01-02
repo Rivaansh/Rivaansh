@@ -21,11 +21,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-
-## 💡 What I Do
-- 🔹 Build full-stack web applications  
-- 🔹 Develop cross-platform mobile apps  
-- 🔹 Design REST APIs & backend systems  
-- 🔹 Create clean, scalable, and secure code  
-
----
