@@ -2,9 +2,6 @@
 
 ### 🚀 Full-Stack Web & Mobile App Developer  
 
-I’m passionate about building **modern, scalable, and high-performance websites & mobile apps**.  
-I enjoy turning ideas into real-world applications using clean code and smart design.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -32,16 +29,3 @@ I enjoy turning ideas into real-world applications using clean code and smart de
 - 🔹 Create clean, scalable, and secure code  
 
 ---
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivaansh&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaansh&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Let’s Connect
-- 💼 Open to freelance & collaboration  
-- 💬 Love discussing new ideas & projects  
-
-⭐ *Feel free to explore my repositories and drop a star if you like my work!*  
